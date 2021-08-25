@@ -1,1 +1,1 @@
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=WiggleGigge)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-readme-stats.vercel.app/api?username=WiggleGiggle)](https://github.com/anuraghazra/github-readme-stats)
