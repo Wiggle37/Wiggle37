@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: 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
+          token: e
 
           # Options
           user: WiggleGiggle
