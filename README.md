@@ -10,5 +10,5 @@
 <img align="left" alt="HTML" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
 <img align="left" alt="CSS" width="18px" src="https://i.imgur.com/Zsnk6xl.png" /><br />
 
-### Editor:
+### Code Editor:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" /><br />
