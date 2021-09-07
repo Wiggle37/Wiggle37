@@ -12,4 +12,4 @@
 
 ### Text Editors:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="IntelliJ" width="40px" src="http://ubuntuhandbook.org/wp-content/uploads/2017/07/intellij-idea-ue-icon.png" /><br />
+<img align="left" alt="IntelliJ" width="40px" height="40px" src="http://ubuntuhandbook.org/wp-content/uploads/2017/07/intellij-idea-ue-icon.png" /><br />
