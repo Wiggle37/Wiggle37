@@ -8,8 +8,8 @@
 <img align="left" alt="node.js" width="32px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="Java" width="35px" src=https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" />
 <img align="left" alt="HTML" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
-<img align="left" alt="CSS" width="18px" src="https://i.imgur.com/Zsnk6xl.png" /><br />
+<img align="left" alt="CSS" width="18px" src="https://i.imgur.com/Zsnk6xl.png" /> <br>
 
 ### Text Editors:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="IntelliJ" width="40px" height="45px" src="http://ubuntuhandbook.org/wp-content/uploads/2017/07/intellij-idea-ue-icon.png" /><br />
+<img align="left" alt="IntelliJ" width="40px" height="45px" src="http://ubuntuhandbook.org/wp-content/uploads/2017/07/intellij-idea-ue-icon.png" /> <br>
