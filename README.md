@@ -1,5 +1,8 @@
-![](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
+👋 Hi!
+Im a student that works mainly with `Python`, and `JavaScript` but also works with `TypeScript`, `Java`, `HTML`, and `CSS`
+
+![Stats](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
+![Files](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
 
 ### Languages:
 <img align="left" alt="Python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
