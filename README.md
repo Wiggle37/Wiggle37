@@ -1,8 +1,6 @@
 👋 Hi!
 Im a student that works mainly with `Python`, and `JavaScript` but also works with `TypeScript`, `Java`, `HTML`, and `CSS`
 
-*also you may see C++ in my thing below, uh so i tried it and i was very confused to yeah i just left it there*
-
 ![Stats](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
 ![Files](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
 
