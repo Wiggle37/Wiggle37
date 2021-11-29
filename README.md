@@ -8,10 +8,10 @@
 <img src='./images/TypeScriptLogo.png' alt='TypeScript' width='64px' height='64px' align='left' />
 <img src='./images/C++Logo.png' alt='C++' width='64px' height='64px' align='left' />
 <img src='./images/HTMLLogo.png' alt='HTML' width='64px' height='64px' align='left' />
-<img src='./images/CSSLogo.png' alt='CSS' width='64px' height='64px' align='left' /> </br>
+<img src='./images/CSSLogo.png' alt='CSS' width='64px' height='64px' align='left' />
 
 ### Tools:
-<img src='./images/NodeJSLogo.png' alt='Node.js' width='64px' height='64px' align='left' /> <br>
+<img src='./images/NodeJSLogo.png' alt='Node.js' width='64px' height='64px' align='left' />
 
 ### IDEs:
 <img src='./images/VSCodeLogo.png' alt='Visual Studio Code' width='64px' height='64px' align='left' />
