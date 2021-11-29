@@ -2,13 +2,15 @@
 ![](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
 
 ### Languages:
-![Python](./images/PythonLogo.png =16x16) { height: 50%; width: 50% }
-![Java](./images/JavaLogo.png = 16x16)
-![JavaScript](./images/JavaScriptLogo.png = 16x16)
-![TypeScript](./images/TypeScriptLogo.png = 16x16)
-![C++](./images/C++Logo.png = 16x16)
-![HTML](./images/HTMLLogo.png = 16x16)
-![CSS](./images/CSSLogo.png = 16x16)
+<img src='./images/PythonLogo.png' alt='Python' width='16px' height='16px'>
+<img src='' alt='Java' width='16px' height='16px'>
+<img src='' alt='JavaScript' width='16px' height='16px'>
+<img src='' alt='TypeScript' width='16px' height='16px'>
+<img src='' alt='C++' width='16px' height='16px'>
+<img src='' alt='HTML' width='16px' height='16px'>
+<img src='' alt='CSS' width='16px' height='16px'>
+
+<br>
 
 ### Tools:
-![Node.js](./images/NodeJSLogo.png = 16x16)
+<img src='' alt='Node.js' width='16px' height='16px'>
