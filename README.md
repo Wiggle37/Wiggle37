@@ -2,7 +2,7 @@
 ![](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
 
 ### Languages:
-<img src='./images/PythonLogo.png' alt='Python' width='16px' height='16px'>
+<img src='./images/PythonLogo.png' alt='Python' width='32px' height='32px'>
 <img src='' alt='Java' width='100px' height='100px'>
 <img src='' alt='JavaScript' width='16px' height='16px'>
 <img src='' alt='TypeScript' width='16px' height='16px'>
