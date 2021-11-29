@@ -2,13 +2,13 @@
 ![](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
 
 ### Languages:
-![Python](./images/PythonLogo.png)
-![Java](./images/JavaLogo.png)
-![JavaScript](./images/JavaScriptLogo.png)
-![TypeScript](./images/TypeScriptLogo.png)
-![C++](./images/C++Logo.png)
-![HTML](./images/HTMLLogo.png)
-![CSS](./images/CSSLogo.png)
+![Python](./images/PythonLogo.png = 16x16)
+![Java](./images/JavaLogo.png = 16x16)
+![JavaScript](./images/JavaScriptLogo.png = 16x16)
+![TypeScript](./images/TypeScriptLogo.png = 16x16)
+![C++](./images/C++Logo.png = 16x16)
+![HTML](./images/HTMLLogo.png = 16x16)
+![CSS](./images/CSSLogo.png = 16x16)
 
 ### Tools:
-![Node.js](./images/JSLogo.png)
+![Node.js](./images/NodeJSLogo.png = 16x16)
