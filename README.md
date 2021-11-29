@@ -13,4 +13,10 @@
 <br>
 
 ### Tools:
-<img src='' alt='Node.js' width='16px' height='16px' align='left'>
+<img src='./images/NodeJSLogo.png' alt='Node.js' width='64px' height='64px' align='left'>
+
+<br>
+
+### IDEs:
+<img src='./images/VSCodeLogo.png' alt='Visual Studio Code' width='64px' height='64px' align='left'>
+<img src='./images/IntelliJLogo.png' alt='IntelliJ' width='64px' height='64px' align='left'>
