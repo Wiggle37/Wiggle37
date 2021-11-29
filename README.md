@@ -3,7 +3,12 @@
 
 ### Languages:
 ![Python](./images/PythonLogo.png)
+![Java](./images/JavaLogo.png)
+![JavaScript](./images/JavaScriptLogo.png)
+![TypeScript](./images/TypeScriptLogo.png)
+![C++](./images/C++Logo.png)
+![HTML](./images/HTMLLogo.png)
+![CSS](./images/CSSLogo.png)
 
-### Text Editors:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="IntelliJ" width="25px" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> <br>
+### Tools:
+![Node.js](./images/JSLogo.png)
