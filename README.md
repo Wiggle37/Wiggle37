@@ -7,7 +7,7 @@
 <img src='./images/JavaScriptLogo.png' alt='JavaScript' width='32px' height='32px'  align='left' />
 <img src='./images/TypeScriptLogo.png' alt='TypeScript' width='32px' height='32px'  align='left' />
 <img src='./images/C++Logo.png'        alt='C++'        width='32px' height='32px'  align='left' />
-<img src='./images/c#Logo/png'         alt='C#'         width='32px' height='32px'  align='left' />
+<img src='./images/C#Logo/png'         alt='C#'         width='32px' height='32px'  align='left' />
 <img src='./images/HTMLLogo.png'       alt='HTML'       width='32px' height='32px'  align='left' />
 <img src='./images/CSSLogo.png'        alt='CSS'        width='32px' height='32px'  align='left' />
 <br>
