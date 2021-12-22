@@ -16,6 +16,7 @@
 <img src='./images/NodeJSLogo.png'     alt='Node.js'    width='32px' height='32px'  align='left' />
 <img src='./images/UnityLogo.png'      alt='Unity'      width='32px' height='32px'  align='left' />
 <img src='./images/SqliteLogo.png'     alt='Sqlite'     width='75px' height='32px'  align='left' />
+<img src='./images/MongoDBLogo.png'    alt='MongoDB'    width='32px' height='32px'  align='left' />
 <br>
 
 ### IDEs:  
