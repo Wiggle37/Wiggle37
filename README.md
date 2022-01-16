@@ -1,3 +1,6 @@
+👋 Hello, I'm Wiggle!
+💻 My favorite programming language is python/java
+
 ![Overview](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
 ![Languages](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
 
@@ -22,3 +25,11 @@
 ### IDEs:  
 <img src='./images/VSCodeLogo.png'     alt='VS Code'    width='32px' height='32px'  align='left' />
 <img src='./images/IntelliJLogo.png'   alt='IntelliJ'   width='32px' height='32px'  align='left' />
+
+```java
+public class Wiggle {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+```
