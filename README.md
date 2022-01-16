@@ -25,6 +25,7 @@
 ### IDEs:  
 <img src='./images/VSCodeLogo.png'     alt='VS Code'    width='32px' height='32px'  align='left' />
 <img src='./images/IntelliJLogo.png'   alt='IntelliJ'   width='32px' height='32px'  align='left' />
+<br>
 
 ```java
 public class Wiggle {
