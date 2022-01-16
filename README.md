@@ -4,8 +4,7 @@
 ![Overview](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
 ![Languages](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
 
-<body>
-    
+<p>
     ### Languages:  
     <img src='./images/PythonLogo.png'     alt='Python'     width='32px' height='32px'  align='left' />
     <img src='./images/JavaLogo.png'       alt='Java'       width='32px' height='32px'  align='left' />
@@ -28,8 +27,7 @@
     <img src='./images/VSCodeLogo.png'     alt='VS Code'    width='32px' height='32px'  align='left' />
     <img src='./images/IntelliJLogo.png'   alt='IntelliJ'   width='32px' height='32px'  align='left' />
     <br>
-    
-</body>
+</p>
 
 ```java
 public class Wiggle {
