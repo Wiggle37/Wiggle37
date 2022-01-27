@@ -1,5 +1,6 @@
 👋 Hello, I'm Wiggle!
 💻 My favorite programming language is python/java
+💻 TypeScript > Javascript
 
 ![Overview](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
 ![Languages](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
@@ -25,7 +26,6 @@
 <img src='./images/IntelliJLogo.png'   alt='IntelliJ'   width='32px' height='32px'  align='left' /> <br>  
 
 ---
-
 ```java
 public class Wiggle {
     public static void main(String[] args) {
