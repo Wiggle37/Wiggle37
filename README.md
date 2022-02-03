@@ -1,7 +1,7 @@
-👋 Hello, I'm Wiggle!
-💻 My favorite programming language is python/java
-💻 TypeScript > Javascript
-🏫 Currently learning React.js to make my website
+👋 Hello, I'm Wiggle!  
+💻 My favorite programming language is python/java  
+💻 TypeScript > Javascript  
+🏫 Currently learning React.js to make my website  
 
 ![Overview](https://github.com/WiggleGiggle/github-stats/blob/master/generated/overview.svg)
 ![Languages](https://github.com/WiggleGiggle/github-stats/blob/master/generated/languages.svg)
